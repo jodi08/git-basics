@@ -1,0 +1,14 @@
+#ignore mac system files
+.DS_Store
+
+#ignore node_modules folder
+node_modules
+
+#ignore all text files
+*.txt
+*.csv
+
+#ignore environment files
+.env
+
+#templates at www.github.com/github/gitignore 
